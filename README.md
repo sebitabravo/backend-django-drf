@@ -14,7 +14,7 @@ Este proyecto ha sido desarrollado como parte de una asignatura universitaria, c
 
 ## Descripción
 
-Este proyecto es un ejemplo de una API RESTful creada con Django y Django REST Framework (DRF). Permite gestionar [aquí describe brevemente lo que hace tu API, por ejemplo, "una lista de tareas", "una base de datos de usuarios", etc.].
+Este proyecto es un ejemplo de una API RESTful creada con Django y Django REST Framework (DRF).
 
 ## Requisitos
 
@@ -32,6 +32,8 @@ cd backend-django-drf
 ```
 
 2. Crea un entorno virtual e instala las dependencias:
+
+### Importante ves que inicien el proyecto tienen que inicar el 'source .venv/bin/activate'
 
 ```bash
 python3 -m venv .venv
